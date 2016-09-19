@@ -1,11 +1,11 @@
 # Spring Boot 官方指南
 
-此Repo是我和我的小伙伴儿参与并发编程网（ifeve.com）[《Spring Boot官方指南》翻译邀请](http://ifeve.com/spring-boot/) 中 **第五章 Spring Boot 执行器** 
+此Repo是我和我的小伙伴儿参与并发编程网（ifeve.com）[《Spring Boot官方指南》翻译邀请](http://ifeve.com/spring-boot/) 中 **第五章 Spring Boot Actuator：生产就绪(Production-ready)功能** 
 
 官方文档英文原文: [Spring-Boot  Part V. Spring Boot Actuator: Production-ready features](http://docs.spring.io/spring-boot/docs/current/reference/html/production-ready.html)
 
 ## 从这里开始
-[第五章：Spring Boot 执行器](第五章：Spring Boot 执行器.md)
+[第五章：Spring Boot Actuator](Part.V.Spring.Boot.Actuator.md)
 
 ## 参与这次翻译的小伙伴
 -  [千橙](http://qiancheng.me/about)  
