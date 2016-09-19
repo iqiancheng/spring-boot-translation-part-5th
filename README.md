@@ -1,17 +1,21 @@
 # Spring Boot 官方指南
 
-此Repo是参与并发编程网（ifeve.com）[《Spring Boot官方指南》翻译邀请](http://ifeve.com/spring-boot/) 中 **第五章 Spring Boot 执行器** 
+此Repo是我和我的小伙伴儿参与并发编程网（ifeve.com）[《Spring Boot官方指南》翻译邀请](http://ifeve.com/spring-boot/) 中 **第五章 Spring Boot 执行器** 
 
 官方文档英文原文: [Spring-Boot  Part V. Spring Boot Actuator: Production-ready features](http://docs.spring.io/spring-boot/docs/current/reference/html/production-ready.html)
 
 ## 从这里开始
 [第五章：Spring Boot 执行器](第五章：Spring Boot 执行器.md)
 
+## 参与这次翻译的小伙伴
+-  [千橙](http://qiancheng.me/about)  
+-  [xuewen.liu]()
+-  [Niki]()
 ## Original Content of the Part V.
 **V. Spring Boot Actuator: Production-ready features**
 
-- 45. Enabling production-ready features
-- 46. Endpoints
+- 45\. Enabling production-ready features
+- 46\. Endpoints
 - 46.1. Customizing endpoints
 - 46.2. Hypermedia for actuator MVC endpoints
 - 46.3. CORS support
@@ -26,7 +30,7 @@
 - 46.7.3. Git commit information
 - 46.7.4. Build information
 - 46.7.5. Writing custom InfoContributors
-- 47. Monitoring and management over HTTP
+- 47\. Monitoring and management over HTTP
 - 47.1. Securing sensitive endpoints
 - 47.2. Customizing the management endpoint paths
 - 47.3. Customizing the management server port
@@ -34,19 +38,19 @@
 - 47.5. Customizing the management server address
 - 47.6. Disabling HTTP endpoints
 - 47.7. HTTP health endpoint access restrictions
-- 48. Monitoring and management over JMX
+- 48\. Monitoring and management over JMX
 - 48.1. Customizing MBean names
 - 48.2. Disabling JMX endpoints
 - 48.3. Using Jolokia for JMX over HTTP
 - 48.3.1. Customizing Jolokia
 - 48.3.2. Disabling Jolokia
-- 49. Monitoring and management using a remote shell
+- 49\. Monitoring and management using a remote shell
 - 49.1. Connecting to the remote shell
 - 49.1.1. Remote shell credentials
 - 49.2. Extending the remote shell
 - 49.2.1. Remote shell commands
 - 49.2.2. Remote shell plugins
-- 50. Metrics
+- 50\. Metrics
 - 50.1. System metrics
 - 50.2. DataSource metrics
 - 50.3. Cache metrics
@@ -62,12 +66,12 @@
 - 50.9. Aggregating metrics from multiple sources
 - 50.10. Dropwizard Metrics
 - 50.11. Message channel integration
-- 51. Auditing
-- 52. Tracing
+- 51\. Auditing
+- 52\. Tracing
 - 52.1. Custom tracing
-- 53. Process monitoring
+- 53\. Process monitoring
 - 53.1. Extend configuration
 - 53.2. Programmatically
-- 54. What to read next
+- 54\. What to read next
 
 
