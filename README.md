@@ -3,14 +3,19 @@
 此Repo是我和小伙伴儿们参与并发编程网（ifeve.com）[《Spring Boot官方指南》翻译邀请](http://ifeve.com/spring-boot/) 中 **第五章 Spring Boot Actuator：生产就绪(Production-ready)功能** 
 
 官方文档英文原文: [Spring-Boot  Part V. Spring Boot Actuator: Production-ready features](http://docs.spring.io/spring-boot/docs/current/reference/html/production-ready.html)
+官方文档AsciiDoc地址: [production-ready-features.adoc](https://github.com/spring-projects/spring-boot/blob/master/spring-boot-docs/src/main/asciidoc/production-ready-features.adoc)
 
 ## 从这里开始
 [第五章：Spring Boot Actuator](Part.V.Spring.Boot.Actuator.md)
+- [45\. 启用生产就绪(production-ready) 功能](45. 启用生产就绪(production-ready) 功能.md)
+- 46\. 启用Actuator的方式 (Endpoints)
+- 46.1 自定义 Actuator 方式 (Endpoints)
+
 
 ## 参与这次翻译的小伙伴
 -  [千橙](http://qiancheng.me/about)  
--  [xuewen.liu]()
--  [Niki]()
+-  [xuewen.liu]( )
+-  [Niki]( )
 ## Original Content of the Part V.
 **V. Spring Boot Actuator: Production-ready features**
 
